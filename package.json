@@ -1,0 +1,21 @@
+{
+  "name": "traversymediamernstack",
+  "version": "1.0.0",
+  "description": "Goalsetter app for tutorial",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "server": "nodemon backend/server.js"
+  },
+  "author": "Pedro Guemes",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
