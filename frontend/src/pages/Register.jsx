@@ -1,4 +1,5 @@
-import {useState, useEffect} from 'react' 
+// import {useState, useEffect} from 'react' 
+import {useState} from 'react' 
 import {FaUser} from 'react-icons/fa'
 
 function Register() {
